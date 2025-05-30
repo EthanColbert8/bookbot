@@ -1,2 +1,3 @@
 # bookbot
-A cute little word analyzer in Python
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
